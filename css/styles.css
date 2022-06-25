@@ -1,0 +1,74 @@
+
+body {
+        background: local;
+        background-color:#201e20;
+        color: #FADCAC;
+        font-size: 20px;
+       /* background-image: url("https://c8.alamy.com/zooms/9/ed6121de51c74adc921240a3674e940b/2geh0hy.jpg");
+       */
+}
+p{
+        font-family: Garamond, serif;
+}
+table{
+        font-family: 'Trebuchet MS', sans-serif;
+}
+hr {
+        border-style: none;
+        border-color: #F5A25D;
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 30%;  
+}
+h1 {
+        color: #FB743E;
+        font-size: 50px;
+
+}
+#mainheading:hover{
+        color: #E40017;
+}
+h2 {
+        color: #ff6e40;
+        font-size: 25px;
+}
+
+h3 {
+        color:#d44545;
+        font-size: 25px;
+        font-family: 'Courier New', monospace;
+}
+img {
+        border-radius: 40%;
+        background-color: transparent;
+        filter: drop-shadow(0 0 0.95rem #A64B2A);
+}
+a:link {
+        color: rgb(228, 115, 10);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: rgb(243, 173, 12);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: rgb(140, 0, 255);
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: rgb(230, 227, 241);
+        background-color: transparent;
+        text-decoration: underline;
+      }
+
+      /*^^^^^^^^^^^^^^^^^^^^^TAGS^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^*/
+      #mainheading{
+        color:#EE5007;
+        font-family: 'Snell Roundhand';
+      }
